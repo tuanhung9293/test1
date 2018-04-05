@@ -1,0 +1,11 @@
+@import url(../../../node_modules/bootstrap/dist/css/bootstrap.min.css);
+.header-custom {
+  background-color: burlywood;
+  height: 70px; }
+
+.footer-custom {
+  background-color: burlywood;
+  height: 60px; }
+
+footer {
+  box-shadow: 0 50vh 0 50vh burlywood; }
